@@ -25,3 +25,14 @@ A highway, **walmart**, BrewTop, **GameStop**
 - and Vegan Bowls
 
 [About Me](https://github.com/cameronkc/assignment2-mcdowell/blob/main/AboutMe.md)
+
+---
+
+Below you will find my favorite sports, where to play them, and how much they cost.
+
+| Sport    |   Location    | Cost |
+| :------- | :-----------: | ---: |
+| Soccer   | Your backyard |  $10 |
+| Football | Your backyard |  $10 |
+| Golf     |    TopGolf    |  $50 |
+| Tennis   | Tennis Courts |  $50 |
