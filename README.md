@@ -36,3 +36,10 @@ Below you will find my favorite sports, where to play them, and how much they co
 | Football | Your backyard |  $10 |
 | Golf     |    TopGolf    |  $50 |
 | Tennis   | Tennis Courts |  $50 |
+
+---
+
+## Favorite Quotes
+
+> "Never let the fear of striking out keep you from playing the game." - <em>Babe Ruth</em>
+> “Money and success don’t change people; they merely amplify what is already there.” — <em>Will Smith</em>
