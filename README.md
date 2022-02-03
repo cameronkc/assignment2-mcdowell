@@ -23,3 +23,5 @@ A highway, **walmart**, BrewTop, **GameStop**
 - Burrito Bowls
 - Steak, Chicken, Pork, Chorizo, Carnitas, ETC!!!!!!!
 - and Vegan Bowls
+
+[About Me](https://github.com/cameronkc/assignment2-mcdowell/blob/main/AboutMe.md)
