@@ -42,4 +42,5 @@ Below you will find my favorite sports, where to play them, and how much they co
 ## Favorite Quotes
 
 > "Never let the fear of striking out keep you from playing the game." - <em>Babe Ruth</em>
+
 > “Money and success don’t change people; they merely amplify what is already there.” — <em>Will Smith</em>
